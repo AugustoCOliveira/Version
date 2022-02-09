@@ -15,4 +15,4 @@
 - $ git revert <desfaz mudanças>
 - $ git merge <faz a mescla de branches>
 
-
+<img src="https://c.tenor.com/j6HNDMU_fF4AAAAC/cow-dancing.gif" width="5%">
